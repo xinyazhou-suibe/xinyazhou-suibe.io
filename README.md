@@ -17,7 +17,7 @@
 - GitHub：https://github.com/xinyazhou-suibe
 
 ## 课程项目示例
-![Q1 年级分布](https://github.com/xinyazhou-suibe/xinyazhou-suibe/blob/main/W2%20zhouxinya/%E4%BD%9C%E4%B8%9A1/output/desc_q1.png "Q1 年级分布")
+![Q1 年级分布](https://github.com/xinyazhou-suibe/xinyazhou-suibe/blob/main/W2%20zhouxinya/%E4%BD%9C%E4%B8%9A1/output/desc_q1.png)
 
 ## 链接
 [m420-suibe-org/homework](https://github.com/m420-suibe-org/homework)
